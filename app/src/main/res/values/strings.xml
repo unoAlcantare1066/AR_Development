@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Go Public</string>
+    <string name="city_screens_fragment">Экраны города</string>
+    <string name="orders">Заказы</string>
+
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+
+    <string name="how_much">На сколько?</string>
+
+    <string-array name="time_list">
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+
+    <string name="seconds">секунд</string>
+
+    <string name="take_picture">Изображение</string>
+
+    <string-array name="add_actions">
+        <item>Камера</item>
+        <item>Галерея</item>
+    </string-array>
+
+    <string name="agreement_false">Подтвердите соглашение</string>
+    <string name="choose_image">Выберите изображение</string>
+
+    <string name="checkbox_five_minutes">Опубликовать сейчас (в течении 5 минут)</string>
+    <string name="checkbox_agreement">Если на фотографии/видео присутствует лицо постороннего человека, то размещая контент вы подтвержаете, что этот человек дал вам согласие на это</string>
+
+    <string name="screen_start_slogan">Ваши послания на экранах города</string>
+    <string name="screen_start_without_registration">Продолжить без регистрации</string>
+    <string name="post">Разместить</string>
+    <string name="money">p.</string>
+    <string name="post_price">Стоимость размещения</string>
+    <string name="add_photo">Добавить фото</string>
+    <string name="authorization">Авторизация через sms</string>
+
+    <string name="way_yo_pay">Способ оплаты</string>
+</resources>
